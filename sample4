@@ -1,8 +1,16 @@
-24
-f
-ge
-w
-g
-Aj
-d
-AS
+public void postJira1()
+{
+System.out.println("jira");
+System.out.println("gitdemo branch ");
+}
+public void postJira()
+{
+System.out.println("jira");
+System.out.println("gitdemo");
+}
+
+public void postJira()
+{
+System.out.println("jira");
+System.out.println("gitdemo");
+}
